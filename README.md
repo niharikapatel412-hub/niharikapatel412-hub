@@ -1,8 +1,10 @@
 ### Hi, I’m Niharika 👋
 A Java developer with 6+ years of experience into FinTech.  
+🌱 I’m currently learning and building projects around Spring AI
 
 ☕ **Backend at heart:** Java | Spring Boot | Spring MVC  
 🏦 **Ex-J.P. Morgan | MSCI | TIAA** – worked on trading, liquidity & account platforms  
+Currently exploring Spring AI projects
 
 🌐 **GitHub:** [github.com/niharikapatel412-hub](https://github.com/niharikapatel412-hub)  
 💼 **LinkedIn:** [www.linkedin.com/in/niharikadpatel]
